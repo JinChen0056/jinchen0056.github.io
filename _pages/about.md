@@ -37,7 +37,7 @@ My research interests center on **Humanoid Loco-Manipulation** and **Human Data 
 
 **EgoHumanoid: Unlocking In-the-Wild Loco-Manipulation with Robot-Free Egocentric Demonstration**
 
-Modi Shi<sup>\*</sup>, Shijia Peng<sup>\*</sup>, **Jin Chen**<sup>\*</sup>, Haoran Jiang, Yinghui Li, Di Huang, Ping Luo, Hongyang Li, Li Chen &nbsp; <sub><i><sup>\*</sup>Equal contribution</i></sub>
+Modi Shi<sup>\*</sup>, Shijia Peng<sup>\*</sup>, **Jin Chen**<sup>\*</sup>, Haoran Jiang, Yinghui Li, Di Huang, Ping Luo, Hongyang Li, Li Chen
 
 *Robotics: Science and Systems (RSS)*, 2026 &nbsp; [[arXiv]](https://arxiv.org/abs/2602.10106)
 
@@ -63,7 +63,7 @@ Checheng Yu, Chonghao Sima, Gangcheng Jiang, Hai Zhang, Haoguang Mai, Hongyang L
 
 **WholeBodyVLA: Towards Unified Latent VLA for Whole-Body Loco-Manipulation Control**
 
-Haoran Jiang<sup>\*</sup>, **Jin Chen**<sup>\*</sup>, Qingwen Bu, Li Chen, Modi Shi, Yanjie Zhang, Delong Li, Chuanzhe Suo, Chuang Wang, Zhihui Peng, Hongyang Li &nbsp; <sub><i><sup>\*</sup>Equal contribution</i></sub>
+Haoran Jiang<sup>\*</sup>, **Jin Chen**<sup>\*</sup>, Qingwen Bu, Li Chen, Modi Shi, Yanjie Zhang, Delong Li, Chuanzhe Suo, Chuang Wang, Zhihui Peng, Hongyang Li
 
 *International Conference on Learning Representations (ICLR)*, 2026 &nbsp; [[arXiv]](https://arxiv.org/abs/2512.11047)
 
@@ -76,7 +76,7 @@ Haoran Jiang<sup>\*</sup>, **Jin Chen**<sup>\*</sup>, Qingwen Bu, Li Chen, Modi 
 
 **Is Diversity All You Need for Scalable Robotic Manipulation?**
 
-Modi Shi<sup>\*</sup>, Li Chen<sup>\*</sup>, **Jin Chen**<sup>\*</sup>, Yuxiang Lu, Chiming Liu, Guanghui Ren, Ping Luo, Di Huang, Maoqing Yao, Hongyang Li &nbsp; <sub><i><sup>\*</sup>Equal contribution</i></sub>
+Modi Shi<sup>\*</sup>, Li Chen<sup>\*</sup>, **Jin Chen**<sup>\*</sup>, Yuxiang Lu, Chiming Liu, Guanghui Ren, Ping Luo, Di Huang, Maoqing Yao, Hongyang Li
 
 *IEEE Transactions on Robotics (T-RO)*, 2026
 
