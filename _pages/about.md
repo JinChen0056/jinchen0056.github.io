@@ -63,7 +63,7 @@ Checheng Yu, Chonghao Sima, Gangcheng Jiang, Hai Zhang, Haoguang Mai, Hongyang L
 
 **WholeBodyVLA: Towards Unified Latent VLA for Whole-Body Loco-Manipulation Control**
 
-Hang Jiang, **Jin Chen**, Qingwen Bu, Li Chen, Modi Shi, Yu Zhang, Du Li, Chuang Suo, Chenghao Wang, et al.
+Haoran Jiang<sup>\*</sup>, **Jin Chen**<sup>\*</sup>, Qingwen Bu, Li Chen, Modi Shi, Yanjie Zhang, Delong Li, Chuanzhe Suo, Chuang Wang, Zhihui Peng, Hongyang Li &nbsp; <sub><i><sup>\*</sup>Equal contribution</i></sub>
 
 *International Conference on Learning Representations (ICLR)*, 2026 &nbsp; [[arXiv]](https://arxiv.org/abs/2512.11047)
 
