@@ -76,7 +76,7 @@ Haoran Jiang<sup>\*</sup>, **Jin Chen**<sup>\*</sup>, Qingwen Bu, Li Chen, Modi 
 
 **Is Diversity All You Need for Scalable Robotic Manipulation?**
 
-Modi Shi, Li Chen, **Jin Chen**, Yuxiang Lu, Chiming Liu, Guanghui Ren, Ping Luo, Di Huang, Maoqing Yao, Hongyang Li
+Modi Shi<sup>\*</sup>, Li Chen<sup>\*</sup>, **Jin Chen**<sup>\*</sup>, Yuxiang Lu, Chiming Liu, Guanghui Ren, Ping Luo, Di Huang, Maoqing Yao, Hongyang Li &nbsp; <sub><i><sup>\*</sup>Equal contribution</i></sub>
 
 *IEEE Transactions on Robotics (T-RO)*, 2026
 
