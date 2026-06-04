@@ -50,7 +50,7 @@ Modi Shi, Shihao Peng, **Jin Chen**, Hang Jiang, Yuxin Li, Di Huang, Ping Luo, H
 
 **χ₀: Resource-Aware Robust Manipulation via Taming Distributional Inconsistencies**
 
-Checheng Yu, Chonghao Sima, Gangcheng Jiang, Hai Zhang, Haoguang Mai, Hongyang Li, Huijie Wang, **Jin Chen**, Kaiyang Wu, Li Chen, Lirui Zhao, Modi Shi, Ping Luo, Qingwen Bu, Shijia Peng, Tianyu Li, Yibo Yuan
+Checheng Yu, Chonghao Sima, Gangcheng Jiang, Hai Zhang, Haoguang Mai, Hongyang Li, Huijie Wang, **Jin Chen**, Kaiyang Wu, Li Chen, Lirui Zhao, Modi Shi, Ping Luo, Qingwen Bu, Shijia Peng, Tianyu Li, Yibo Yuan &nbsp; <sub><i>(authors listed alphabetically)</i></sub>
 
 *arXiv preprint*, 2026 &nbsp; [[arXiv]](https://arxiv.org/abs/2602.09021)
 
