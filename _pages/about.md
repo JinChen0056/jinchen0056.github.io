@@ -78,7 +78,7 @@ Haoran Jiang<sup>\*</sup>, **Jin Chen**<sup>\*</sup>, Qingwen Bu, Li Chen, Modi 
 
 Modi Shi<sup>\*</sup>, Li Chen<sup>\*</sup>, **Jin Chen**<sup>\*</sup>, Yuxiang Lu, Chiming Liu, Guanghui Ren, Ping Luo, Di Huang, Maoqing Yao, Hongyang Li
 
-*IEEE Transactions on Robotics (T-RO)*, 2026
+*IEEE Transactions on Robotics (T-RO)*, 2026 &nbsp; [[arXiv]](https://arxiv.org/abs/2507.06219)
 
 </div>
 </div>
