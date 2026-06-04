@@ -27,9 +27,6 @@ My research interests center on **Humanoid Loco-Manipulation** and **Human Data 
 - *2026.02*: &nbsp;🎉 Joined **Tongyi Lab, Alibaba** as a Research Intern.
 - *2026.02*: &nbsp;📢 Released **EgoHumanoid** on arXiv — a human-to-humanoid loco-manipulation transfer framework.
 - *2026.01*: &nbsp;🎉 **WholeBodyVLA** is accepted by **ICLR 2026**!
-- *2025.12*: &nbsp;📄 **WholeBodyVLA** preprint released — unified latent VLA for whole-body loco-manipulation control.
-- *2025.05*: &nbsp;🎉 Joined **AgiBot (智元机器人)** as a Research Intern.
-- *2024.10*: &nbsp;🎉 Joined **Shanghai AI Laboratory** (OpenDriveLab) as a Research Intern.
 
 
 # 📝 Publications
