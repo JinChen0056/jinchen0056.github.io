@@ -37,7 +37,7 @@ My research interests center on **Humanoid Loco-Manipulation** and **Human Data 
 
 **EgoHumanoid: Unlocking In-the-Wild Loco-Manipulation with Robot-Free Egocentric Demonstration**
 
-Modi Shi, Shihao Peng, **Jin Chen**, Hang Jiang, Yuxin Li, Di Huang, Ping Luo, Hongyang Li, Li Chen
+Modi Shi<sup>\*</sup>, Shijia Peng<sup>\*</sup>, **Jin Chen**<sup>\*</sup>, Haoran Jiang, Yinghui Li, Di Huang, Ping Luo, Hongyang Li, Li Chen &nbsp; <sub><i><sup>\*</sup>Equal contribution</i></sub>
 
 *Robotics: Science and Systems (RSS)*, 2026 &nbsp; [[arXiv]](https://arxiv.org/abs/2602.10106)
 
