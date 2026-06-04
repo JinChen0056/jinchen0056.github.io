@@ -19,9 +19,7 @@ redirect_from:
 
 I am a PhD student jointly affiliated with [Fudan University](https://www.fudan.edu.cn/) and the [Shanghai Innovation Institute](https://www.sii.edu.cn/), working at [OpenDriveLab](https://www.opendrivelab.com/) under the supervision of [Prof. Hongyang Li](https://lihongyang.info/).
 
-My research focuses on **embodied AI**, with a particular interest in **vision-language-action (VLA) models for humanoid whole-body loco-manipulation**. I am working toward generalist humanoid robots that can perceive, reason, and act in the open world from large-scale demonstrations.
-
-Recent threads of my work include scalable robotic manipulation, whole-body VLA control, and learning from in-the-wild egocentric data. I am always happy to chat about humanoid robots, VLA, and embodied foundation models — feel free to drop me an email.
+My research interests center on **Humanoid Loco-Manipulation** and **Human Data Scaling**. Always happy to chat and exchange ideas — feel free to drop me an email.
 
 
 # 🔥 News
