@@ -45,7 +45,7 @@ Modi Shi, Li Chen, **Jin Chen**, Yuxiang Lu, Chiming Liu, Guanghui Ren, Ping Luo
 </div>
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/logos/shlab.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/logos/shlab.webp' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **EgoHumanoid: Unlocking In-the-Wild Loco-Manipulation with Robot-Free Egocentric Demonstration**
@@ -58,7 +58,7 @@ Modi Shi, Shihao Peng, **Jin Chen**, Hang Jiang, Yuxin Li, Di Huang, Ping Luo, H
 </div>
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/logos/shlab.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/logos/shlab.webp' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **WholeBodyVLA: Towards Unified Latent VLA for Whole-Body Loco-Manipulation Control**
@@ -83,9 +83,9 @@ Hang Jiang, **Jin Chen**, Qingwen Bu, Li Chen, Modi Shi, Yu Zhang, Du Li, Chuang
 
 # 💻 Research Experience
 - *2026.02 - Now*, [Tongyi Lab, Alibaba](https://tongyi.aliyun.com/), Research Intern. <img src='images/logos/tongyi.svg' style='height:18px;vertical-align:middle;margin-left:6px'>
-- *2025.12 - 2026.01*, [KAI (超维动力)](https://www.kinetixai.tech/), Research Intern. <img src='images/logos/kai.svg' style='height:18px;vertical-align:middle;margin-left:6px'>
+- *2025.12 - 2026.01*, [KAI (超维动力)](https://www.kinetixai.tech/), Research Intern. <img src='images/logos/kai.svg' style='height:18px;vertical-align:middle;margin-left:6px;filter:invert(1)'>
 - *2025.05 - 2025.11*, [AgiBot (智元机器人)](https://www.agibot.com/), Research Intern. <img src='images/logos/agibot.png' style='height:18px;vertical-align:middle;margin-left:6px'>
-- *2024.10 - 2025.04*, [Shanghai AI Laboratory](https://www.shlab.org.cn/), Research Intern. <img src='images/logos/shlab.svg' style='height:18px;vertical-align:middle;margin-left:6px'>
+- *2024.10 - 2025.04*, [Shanghai AI Laboratory](https://www.shlab.org.cn/), Research Intern. <img src='images/logos/shlab.webp' style='height:18px;vertical-align:middle;margin-left:6px'>
 - *2023.09 - 2024.09*, [TeleAI (中国电信人工智能研究院)](https://www.tele-ai.cn/), Research Intern. <img src='images/logos/teleai.png' style='height:18px;vertical-align:middle;margin-left:6px'>
 
 
