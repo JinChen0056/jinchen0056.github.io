@@ -82,7 +82,7 @@ Hang Jiang, **Jin Chen**, Qingwen Bu, Li Chen, Modi Shi, Yu Zhang, Du Li, Chuang
 
 
 # 💻 Research Experience
-- *2026.02 - Now*, [Tongyi Lab, Alibaba (通义实验室)](https://tongyi.aliyun.com/), Research Intern. <img src='images/logos/tongyi.svg' style='height:32px;vertical-align:middle;margin-left:6px'>
+- *2026.02 - Present*, [Tongyi Lab, Alibaba (通义实验室)](https://tongyi.aliyun.com/), Research Intern. <img src='images/logos/tongyi.svg' style='height:32px;vertical-align:middle;margin-left:6px'>
 - *2025.12 - 2026.01*, [KAI (超维动力)](https://www.kinetixai.tech/), Research Intern. <img src='images/logos/kai.svg' style='height:20px;vertical-align:middle;margin-left:6px;filter:invert(1)'>
 - *2025.05 - 2025.11*, [AgiBot (智元机器人)](https://www.agibot.com/), Research Intern. <img src='images/logos/agibot.png' style='height:32px;vertical-align:middle;margin-left:6px'>
 - *2024.10 - 2025.04*, [Shanghai AI Laboratory (上海人工智能实验室)](https://www.shlab.org.cn/), Research Intern. <img src='images/logos/shlab.png' style='height:26px;vertical-align:middle;margin-left:6px'>
