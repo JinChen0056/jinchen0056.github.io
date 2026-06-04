@@ -45,6 +45,19 @@ Modi Shi, Shihao Peng, **Jin Chen**, Hang Jiang, Yuxin Li, Di Huang, Ping Luo, H
 </div>
 
 <div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/logos/agibot.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**χ₀: Resource-Aware Robust Manipulation via Taming Distributional Inconsistencies**
+
+Chong Yu, Chonghao Sima, Guanghui Jiang, Hao Zhang, Hao Mai, Hongyang Li, Hao Wang, **Jin Chen**, Kun Wu, et al.
+
+*arXiv preprint*, 2026 &nbsp; [[arXiv]](https://arxiv.org/abs/2602.09021)
+
+</div>
+</div>
+
+<div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/logos/shlab.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
