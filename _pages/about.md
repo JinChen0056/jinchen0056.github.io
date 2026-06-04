@@ -29,7 +29,33 @@ My research interests center on **Humanoid Loco-Manipulation** and **Human Data 
 - *2026.01*: &nbsp;🎉 **WholeBodyVLA** is accepted by **ICLR 2026**!
 
 
-# 📝 Publications
+# 📝 Selected Publications
+
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">RSS 2026</div><img src='images/logos/shlab.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**EgoHumanoid: Unlocking In-the-Wild Loco-Manipulation with Robot-Free Egocentric Demonstration**
+
+Modi Shi, Shihao Peng, **Jin Chen**, Hang Jiang, Yuxin Li, Di Huang, Ping Luo, Hongyang Li, Li Chen
+
+*Robotics: Science and Systems (RSS)*, 2026 &nbsp; [[arXiv]](https://arxiv.org/abs/2602.10106)
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/logos/shlab.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**WholeBodyVLA: Towards Unified Latent VLA for Whole-Body Loco-Manipulation Control**
+
+Hang Jiang, **Jin Chen**, Qingwen Bu, Li Chen, Modi Shi, Yu Zhang, Du Li, Chuang Suo, Chenghao Wang, et al.
+
+*International Conference on Learning Representations (ICLR)*, 2026 &nbsp; [[arXiv]](https://arxiv.org/abs/2512.11047)
+
+</div>
+</div>
 
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">T-RO 2026</div><img src='images/logos/agibot.png' alt="sym" width="100%"></div></div>
@@ -43,42 +69,6 @@ Modi Shi, Li Chen, **Jin Chen**, Yuxiang Lu, Chiming Liu, Guanghui Ren, Ping Luo
 
 </div>
 </div>
-
-<div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/logos/shlab.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**EgoHumanoid: Unlocking In-the-Wild Loco-Manipulation with Robot-Free Egocentric Demonstration**
-
-Modi Shi, Shihao Peng, **Jin Chen**, Hang Jiang, Yuxin Li, Di Huang, Ping Luo, Hongyang Li, Li Chen
-
-[arXiv:2602.10106](https://arxiv.org/abs/2602.10106), 2026
-
-</div>
-</div>
-
-<div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/logos/shlab.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**WholeBodyVLA: Towards Unified Latent VLA for Whole-Body Loco-Manipulation Control**
-
-Hang Jiang, **Jin Chen**, Qingwen Bu, Li Chen, Modi Shi, Yu Zhang, Du Li, Chuang Suo, Chenghao Wang, et al.
-
-[arXiv:2512.11047](https://arxiv.org/abs/2512.11047), 2025
-
-</div>
-</div>
-
-- **Resource-Aware Robust Manipulation via Taming Distributional Inconsistencies**, Chong Yu, Chonghao Sima, Guanghui Jiang, Hao Zhang, Hao Mai, Hongyang Li, Hao Wang, **Jin Chen**, Kun Wu, et al., [arXiv:2602.09021](https://arxiv.org/abs/2602.09021), **2026**.
-
-- **Adaptive Evidential Learning for Temporal-Semantic Robustness in Moment Retrieval**, Hao Huang, Kai Ma, **Jin Chen**, Hao Chen, Zheng Wu, Xin Zang, Hao Fang, Chen Ban, Hao Sun, et al., **AAAI 2026**.
-
-- **Trusted Unified Feature-Neighborhood Dynamics for Multi-View Classification**, Hao Huang, Chen Qin, Zheng Liu, Kai Ma, **Jin Chen**, Hao Fang, Chen Ban, Hao Sun, Zheng He, **AAAI 2025**.
-
-- **ViCo: A Multitask Video-enhanced and Cognition-preserving Modality Alignment Training Framework**, Zhicheng Yu, **Jin Chen**, Jia Shen, Lei Zhou, Hao Fang, Xin Zang, Chen Ban, Jin Chen, Zheng He, et al., **ICASSP 2025**.
-
-- **BoViLA: Bootstrapping Video-Language Alignment via LLM-Based Self-Questioning and Answering**, **Jin Chen**, Kai Ma, Hao Huang, Jia Shen, Hao Fang, Xin Zang, Chen Ban, Zheng He, Hao Sun, et al., [arXiv:2410.02768](https://arxiv.org/abs/2410.02768), **2024**.
 
 
 # 💻 Research Experience
