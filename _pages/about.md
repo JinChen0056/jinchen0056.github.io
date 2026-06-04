@@ -90,5 +90,6 @@ Hang Jiang, **Jin Chen**, Qingwen Bu, Li Chen, Modi Shi, Yu Zhang, Du Li, Chuang
 
 
 # 📖 Educations
-- *2024 - Now*, PhD student, Fudan University & Shanghai Innovation Institute.
-<!-- TODO: add B.S. / M.S. background here if desired -->
+- *2025.09 - Present*, Ph.D., Fudan University and Shanghai Innovation Institute.
+- *2022.09 - 2025.06*, M.S. in Mathematics, Xi'an Jiaotong University.
+- *2018.09 - 2022.06*, B.S. in Mathematics and Applied Mathematics, China University of Mining and Technology.
