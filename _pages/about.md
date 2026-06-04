@@ -24,12 +24,12 @@ My research focuses on **embodied AI**, with a particular interest in **vision-l
 Recent threads of my work include scalable robotic manipulation, whole-body VLA control, and learning from in-the-wild egocentric data. I am always happy to chat about humanoid robots, VLA, and embodied foundation models — feel free to drop me an email.
 
 
-# 💻 Research Experience
-- *2026.02 - Now*, [Tongyi Lab, Alibaba](https://tongyi.aliyun.com/), Research Intern. <img src='images/logos/tongyi.svg' style='height:18px;vertical-align:middle;margin-left:6px'>
-- *2025.12 - 2026.01*, KAI (超维动力), Research Intern. <img src='images/logos/kai.svg' style='height:18px;vertical-align:middle;margin-left:6px'>
-- *2025.05 - 2025.11*, [AgiBot (智元机器人)](https://www.agibot.com/), Research Intern. <img src='images/logos/agibot.png' style='height:18px;vertical-align:middle;margin-left:6px'>
-- *2024.10 - 2025.04*, [Shanghai AI Laboratory](https://www.shlab.org.cn/), Research Intern. <img src='images/logos/shlab.svg' style='height:18px;vertical-align:middle;margin-left:6px'>
-- *2023.09 - 2024.09*, [TeleAI (中国电信人工智能研究院)](https://www.tele-ai.cn/), Research Intern. <img src='images/logos/teleai.png' style='height:18px;vertical-align:middle;margin-left:6px'>
+# 🔥 News
+- *2026.02*: &nbsp;🎉 Joined **Tongyi Lab, Alibaba** as a Research Intern.
+- *2026.01*: &nbsp;📄 New preprint **EgoHumanoid** released on arXiv — unlocking in-the-wild loco-manipulation with robot-free egocentric data.
+- *2025.12*: &nbsp;📄 **WholeBodyVLA** preprint released — unified latent VLA for whole-body loco-manipulation control.
+- *2025.05*: &nbsp;🎉 Joined **AgiBot (智元机器人)** as a Research Intern.
+- *2024.10*: &nbsp;🎉 Joined **Shanghai AI Laboratory** (OpenDriveLab) as a Research Intern.
 
 
 # 📝 Publications
@@ -84,12 +84,12 @@ Hang Jiang, **Jin Chen**, Qingwen Bu, Li Chen, Modi Shi, Yu Zhang, Du Li, Chuang
 - **BoViLA: Bootstrapping Video-Language Alignment via LLM-Based Self-Questioning and Answering**, **Jin Chen**, Kai Ma, Hao Huang, Jia Shen, Hao Fang, Xin Zang, Chen Ban, Zheng He, Hao Sun, et al., [arXiv:2410.02768](https://arxiv.org/abs/2410.02768), **2024**.
 
 
-# 🔥 News
-- *2026.02*: &nbsp;🎉 Joined **Tongyi Lab, Alibaba** as a Research Intern.
-- *2026.01*: &nbsp;📄 New preprint **EgoHumanoid** released on arXiv — unlocking in-the-wild loco-manipulation with robot-free egocentric data.
-- *2025.12*: &nbsp;📄 **WholeBodyVLA** preprint released — unified latent VLA for whole-body loco-manipulation control.
-- *2025.05*: &nbsp;🎉 Joined **AgiBot (智元机器人)** as a Research Intern.
-- *2024.10*: &nbsp;🎉 Joined **Shanghai AI Laboratory** (OpenDriveLab) as a Research Intern.
+# 💻 Research Experience
+- *2026.02 - Now*, [Tongyi Lab, Alibaba](https://tongyi.aliyun.com/), Research Intern. <img src='images/logos/tongyi.svg' style='height:18px;vertical-align:middle;margin-left:6px'>
+- *2025.12 - 2026.01*, KAI (超维动力), Research Intern. <img src='images/logos/kai.svg' style='height:18px;vertical-align:middle;margin-left:6px'>
+- *2025.05 - 2025.11*, [AgiBot (智元机器人)](https://www.agibot.com/), Research Intern. <img src='images/logos/agibot.png' style='height:18px;vertical-align:middle;margin-left:6px'>
+- *2024.10 - 2025.04*, [Shanghai AI Laboratory](https://www.shlab.org.cn/), Research Intern. <img src='images/logos/shlab.svg' style='height:18px;vertical-align:middle;margin-left:6px'>
+- *2023.09 - 2024.09*, [TeleAI (中国电信人工智能研究院)](https://www.tele-ai.cn/), Research Intern. <img src='images/logos/teleai.png' style='height:18px;vertical-align:middle;margin-left:6px'>
 
 
 # 📖 Educations
