@@ -86,7 +86,7 @@ Hang Jiang, **Jin Chen**, Qingwen Bu, Li Chen, Modi Shi, Yu Zhang, Du Li, Chuang
 - *2025.12 - 2026.01*, [KAI (超维动力)](https://www.kinetixai.tech/), Research Intern. <img src='images/logos/kai.svg' style='height:18px;vertical-align:middle;margin-left:6px;filter:invert(1)'>
 - *2025.05 - 2025.11*, [AgiBot (智元机器人)](https://www.agibot.com/), Research Intern. <img src='images/logos/agibot.png' style='height:18px;vertical-align:middle;margin-left:6px'>
 - *2024.10 - 2025.04*, [Shanghai AI Laboratory (上海人工智能实验室)](https://www.shlab.org.cn/), Research Intern. <img src='images/logos/shlab.webp' style='height:18px;vertical-align:middle;margin-left:6px;filter:invert(1)'>
-- *2023.09 - 2024.09*, [TeleAI (中国电信人工智能研究院)](https://www.teleai.com.cn/), Research Intern. <img src='images/logos/teleai.png' style='height:18px;vertical-align:middle;margin-left:6px'>
+- *2023.09 - 2024.09*, [TeleAI (中国电信人工智能研究院)](https://www.teleai.com.cn/), Research Intern. <img src='images/logos/teleai.png' style='height:32px;vertical-align:middle;margin-left:6px'>
 
 
 # 📖 Educations
