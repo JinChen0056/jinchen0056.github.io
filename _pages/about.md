@@ -108,7 +108,7 @@ Modi Shi<sup>\*</sup>, Li Chen<sup>\*</sup>, **Jin Chen**<sup>\*</sup>, Yuxiang 
 
 **[The 1st AgiBot World Challenge](https://agibot-world.com/challenge2025)**
 
-*IROS 2025 Competition*, Tech Lead
+*IROS 2025 Competition*, **Tech Lead**
 
 Two tracks — **Manipulation** and **World Model** — attracting 300+ teams worldwide. Built on the AgiBot World platform with real-robot evaluation pipelines.
 
