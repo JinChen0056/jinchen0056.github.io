@@ -100,6 +100,24 @@ Modi Shi<sup>\*</sup>, Li Chen<sup>\*</sup>, **Jin Chen**<sup>\*</sup>, Yuxiang 
 </div>
 
 
+# 🏆 Competition Organizing
+
+<div class='paper-box'>
+<div class='paper-box-image'><div><img src='images/papers/challenge.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[The 1st AgiBot World Challenge](https://agibot-world.com/challenge2025)**
+
+*IROS 2025 Competition*, Tech Lead
+
+Two tracks — **Manipulation** and **World Model** — attracting 300+ teams worldwide. Built on the AgiBot World platform with real-robot evaluation pipelines.
+
+[**Website**](https://agibot-world.com/challenge2025)
+
+</div>
+</div>
+
+
 # 💻 Research Experience
 - *2026.02 - Present*, [Tongyi Lab, Alibaba (通义实验室)](https://tongyi.aliyun.com/), Research Intern. <img src='images/logos/tongyi.svg' style='height:32px;vertical-align:middle;margin-left:6px'>
 - *2025.12 - 2026.01*, [KAI (超维动力)](https://www.kinetixai.tech/), Research Intern. <img src='images/logos/kai.svg' style='height:20px;vertical-align:middle;margin-left:6px;filter:invert(1)'>
