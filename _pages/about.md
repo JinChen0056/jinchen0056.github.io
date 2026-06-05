@@ -100,7 +100,7 @@ Modi Shi<sup>\*</sup>, Li Chen<sup>\*</sup>, **Jin Chen**<sup>\*</sup>, Yuxiang 
 </div>
 
 
-# 🏆 Competition Organizing
+# 🎯 Academic Services
 
 <div class='paper-box'>
 <div class='paper-box-image'><div><img src='images/papers/challenge.jpg' alt="sym" width="100%"></div></div>
