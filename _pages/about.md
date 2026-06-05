@@ -35,11 +35,15 @@ My research interests center on **Humanoid Loco-Manipulation** and **Human Data 
 <div class='paper-box-image'><div><div class="badge">RSS 2026</div><img src='images/logos/shlab.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**EgoHumanoid: Unlocking In-the-Wild Loco-Manipulation with Robot-Free Egocentric Demonstration**
+**[EgoHumanoid: Unlocking In-the-Wild Loco-Manipulation with Robot-Free Egocentric Demonstration](https://opendrivelab.com/EgoHumanoid/)**
 
 Modi Shi<sup>\*</sup>, Shijia Peng<sup>\*</sup>, **Jin Chen**<sup>\*</sup>, Haoran Jiang, Yinghui Li, Di Huang, Ping Luo, Hongyang Li, Li Chen
 
-*Robotics: Science and Systems (RSS)*, 2026 &nbsp; [[arXiv]](https://arxiv.org/abs/2602.10106)
+*Robotics: Science and Systems (RSS)*, 2026
+
+[**Project**](https://opendrivelab.com/EgoHumanoid/) \| [**GitHub**](https://github.com/OpenDriveLab/EgoHumanoid) \| [**arXiv**](https://arxiv.org/abs/2602.10106)
+
+<sub><i>The first framework that trains on robot-free egocentric human videos and zero-shot deploys on bipedal humanoid robots.</i></sub>
 
 </div>
 </div>
@@ -48,11 +52,15 @@ Modi Shi<sup>\*</sup>, Shijia Peng<sup>\*</sup>, **Jin Chen**<sup>\*</sup>, Haor
 <div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/logos/agibot.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**χ₀: Resource-Aware Robust Manipulation via Taming Distributional Inconsistencies**
+**[χ₀: Resource-Aware Robust Manipulation via Taming Distributional Inconsistencies](https://opendrivelab.com/kai0)**
 
 Checheng Yu, Chonghao Sima, Gangcheng Jiang, Hai Zhang, Haoguang Mai, Hongyang Li, Huijie Wang, **Jin Chen**, Kaiyang Wu, Li Chen, Lirui Zhao, Modi Shi, Ping Luo, Qingwen Bu, Shijia Peng, Tianyu Li, Yibo Yuan &nbsp; <sub><i>(authors listed alphabetically)</i></sub>
 
-*arXiv preprint*, 2026 &nbsp; [[arXiv]](https://arxiv.org/abs/2602.09021)
+*arXiv preprint*, 2026
+
+[**Project**](https://opendrivelab.com/kai0) \| [**GitHub**](https://github.com/OpenDriveLab/kai0) \| [**arXiv**](https://arxiv.org/abs/2602.09021)
+
+<sub><i>A systematic study and optimization of dual-arm dexterous deformable-object manipulation; powered the first 24-hour non-stop laundry-folding livestream.</i></sub>
 
 </div>
 </div>
@@ -61,11 +69,15 @@ Checheng Yu, Chonghao Sima, Gangcheng Jiang, Hai Zhang, Haoguang Mai, Hongyang L
 <div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/logos/shlab.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**WholeBodyVLA: Towards Unified Latent VLA for Whole-Body Loco-Manipulation Control**
+**[WholeBodyVLA: Towards Unified Latent VLA for Whole-Body Loco-Manipulation Control](https://opendrivelab.com/WholeBodyVLA/)**
 
 Haoran Jiang<sup>\*</sup>, **Jin Chen**<sup>\*</sup>, Qingwen Bu, Li Chen, Modi Shi, Yanjie Zhang, Delong Li, Chuanzhe Suo, Chuang Wang, Zhihui Peng, Hongyang Li
 
-*International Conference on Learning Representations (ICLR)*, 2026 &nbsp; [[arXiv]](https://arxiv.org/abs/2512.11047)
+*International Conference on Learning Representations (ICLR)*, 2026
+
+[**Project**](https://opendrivelab.com/WholeBodyVLA/) \| [**GitHub**](https://github.com/OpenDriveLab/WholebodyVLA) \| [**arXiv**](https://arxiv.org/abs/2512.11047)
+
+<sub><i>The first end-to-end VLA autonomy stack for bipedal humanoids, and the first to sustain over 1 minute of autonomous loco-manipulation on a bipedal humanoid.</i></sub>
 
 </div>
 </div>
@@ -74,11 +86,15 @@ Haoran Jiang<sup>\*</sup>, **Jin Chen**<sup>\*</sup>, Qingwen Bu, Li Chen, Modi 
 <div class='paper-box-image'><div><div class="badge">T-RO 2026</div><img src='images/logos/agibot.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Is Diversity All You Need for Scalable Robotic Manipulation?**
+**[Is Diversity All You Need for Scalable Robotic Manipulation?](https://agibot-world.com/)**
 
 Modi Shi<sup>\*</sup>, Li Chen<sup>\*</sup>, **Jin Chen**<sup>\*</sup>, Yuxiang Lu, Chiming Liu, Guanghui Ren, Ping Luo, Di Huang, Maoqing Yao, Hongyang Li
 
-*IEEE Transactions on Robotics (T-RO)*, 2026 &nbsp; [[arXiv]](https://arxiv.org/abs/2507.06219)
+*IEEE Transactions on Robotics (T-RO)*, 2026
+
+[**Project**](https://agibot-world.com/) \| [**GitHub**](https://github.com/OpenDriveLab/Agibot-World) \| [**arXiv**](https://arxiv.org/abs/2507.06219)
+
+<sub><i>A scaling-law study of how VLA foundation model performance scales with real-robot data diversity.</i></sub>
 
 </div>
 </div>
