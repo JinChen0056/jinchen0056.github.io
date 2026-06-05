@@ -49,7 +49,7 @@ Modi Shi<sup>\*</sup>, Shijia Peng<sup>\*</sup>, **Jin Chen**<sup>\*</sup>, Haor
 </div>
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/logos/agibot.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/papers/kai0.jpg' data-gif='images/papers/kai0.gif' alt="sym" width="100%" class="lazy-gif"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[&chi;&#x2080;: Resource-Aware Robust Manipulation via Taming Distributional Inconsistencies](https://opendrivelab.com/kai0)**
