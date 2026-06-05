@@ -32,7 +32,7 @@ My research interests center on **Humanoid Loco-Manipulation** and **Human Data 
 # 📝 Selected Publications
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">RSS 2026</div><img src='images/papers/egohumanoid.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-image'><div><div class="badge">RSS 2026</div><img src='images/papers/egohumanoid.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[EgoHumanoid: Unlocking In-the-Wild Loco-Manipulation with Robot-Free Egocentric Demonstration](https://opendrivelab.com/EgoHumanoid/)**
@@ -52,7 +52,7 @@ Modi Shi<sup>\*</sup>, Shijia Peng<sup>\*</sup>, **Jin Chen**<sup>\*</sup>, Haor
 <div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/logos/agibot.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[χ₀: Resource-Aware Robust Manipulation via Taming Distributional Inconsistencies](https://opendrivelab.com/kai0)**
+**[&chi;&#x2080;: Resource-Aware Robust Manipulation via Taming Distributional Inconsistencies](https://opendrivelab.com/kai0)**
 
 Checheng Yu, Chonghao Sima, Gangcheng Jiang, Hai Zhang, Haoguang Mai, Hongyang Li, Huijie Wang, **Jin Chen**, Kaiyang Wu, Li Chen, Lirui Zhao, Modi Shi, Ping Luo, Qingwen Bu, Shijia Peng, Tianyu Li, Yibo Yuan &nbsp; <sub><i>(authors listed alphabetically)</i></sub>
 
@@ -66,7 +66,7 @@ Checheng Yu, Chonghao Sima, Gangcheng Jiang, Hai Zhang, Haoguang Mai, Hongyang L
 </div>
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/papers/wholebodyvla.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/papers/wholebodyvla.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[WholeBodyVLA: Towards Unified Latent VLA for Whole-Body Loco-Manipulation Control](https://opendrivelab.com/WholeBodyVLA/)**
