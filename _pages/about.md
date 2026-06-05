@@ -83,7 +83,7 @@ Haoran Jiang<sup>\*</sup>, **Jin Chen**<sup>\*</sup>, Qingwen Bu, Li Chen, Modi 
 </div>
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">T-RO 2026</div><img src='images/logos/agibot.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-image'><div><div class="badge">T-RO 2026</div><img src='images/papers/diversity.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[Is Diversity All You Need for Scalable Robotic Manipulation?](https://agibot-world.com/)**
