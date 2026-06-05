@@ -32,7 +32,7 @@ My research interests center on **Humanoid Loco-Manipulation** and **Human Data 
 # 📝 Selected Publications
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">RSS 2026</div><img src='images/logos/shlab.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-image'><div><div class="badge">RSS 2026</div><img src='images/papers/egohumanoid.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[EgoHumanoid: Unlocking In-the-Wild Loco-Manipulation with Robot-Free Egocentric Demonstration](https://opendrivelab.com/EgoHumanoid/)**
@@ -66,7 +66,7 @@ Checheng Yu, Chonghao Sima, Gangcheng Jiang, Hai Zhang, Haoguang Mai, Hongyang L
 </div>
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/logos/shlab.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/papers/wholebodyvla.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[WholeBodyVLA: Towards Unified Latent VLA for Whole-Body Loco-Manipulation Control](https://opendrivelab.com/WholeBodyVLA/)**
