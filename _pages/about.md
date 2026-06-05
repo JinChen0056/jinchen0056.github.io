@@ -32,7 +32,7 @@ My research interests center on **Humanoid Loco-Manipulation** and **Human Data 
 # 📝 Selected Publications
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">RSS 2026</div><img src='images/papers/egohumanoid.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-image'><div><div class="badge">RSS 2026</div><img src='images/papers/egohumanoid.jpg' data-gif='images/papers/egohumanoid.gif' alt="sym" width="100%" class="lazy-gif"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[EgoHumanoid: Unlocking In-the-Wild Loco-Manipulation with Robot-Free Egocentric Demonstration](https://opendrivelab.com/EgoHumanoid/)**
@@ -66,7 +66,7 @@ Checheng Yu, Chonghao Sima, Gangcheng Jiang, Hai Zhang, Haoguang Mai, Hongyang L
 </div>
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/papers/wholebodyvla.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/papers/wholebodyvla.jpg' data-gif='images/papers/wholebodyvla.gif' alt="sym" width="100%" class="lazy-gif"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[WholeBodyVLA: Towards Unified Latent VLA for Whole-Body Loco-Manipulation Control](https://opendrivelab.com/WholeBodyVLA/)**
@@ -112,3 +112,11 @@ Modi Shi<sup>\*</sup>, Li Chen<sup>\*</sup>, **Jin Chen**<sup>\*</sup>, Yuxiang 
 - *2025.09 - Present*, Ph.D., Fudan University and Shanghai Innovation Institute.
 - *2022.09 - 2025.06*, M.S. in Mathematics, Xi'an Jiaotong University.
 - *2018.09 - 2022.06*, B.S. in Mathematics and Applied Mathematics, China University of Mining and Technology.
+
+<script>
+document.querySelectorAll('img.lazy-gif').forEach(function(img) {
+  var gif = new Image();
+  gif.onload = function() { img.src = gif.src; };
+  gif.src = img.getAttribute('data-gif');
+});
+</script>
