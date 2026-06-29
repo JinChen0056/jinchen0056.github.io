@@ -35,17 +35,22 @@ My research interests center on **Humanoid Loco-Manipulation** and **Human Data 
 .demo-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
-  column-gap: 40px;
-  row-gap: 28px;
-  margin: 0.8rem auto 1.8rem;
-  width: 86%;
-  max-width: 900px;
+  column-gap: 34px;
+  row-gap: 30px;
+  margin: 1rem auto 2rem;
+  width: 90%;
+  max-width: 960px;
 }
 
 .demo-item {
   display: block;
   width: 100%;
   margin: 0;
+  padding: 10px;
+  background: #fafafa;
+  border: 1px solid #e8e8e8;
+  border-radius: 8px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.06);
 }
 
 .demo-video {
@@ -54,6 +59,7 @@ My research interests center on **Humanoid Loco-Manipulation** and **Human Data 
   aspect-ratio: 16 / 9;
   background: #111;
   border-radius: 6px;
+  border: 1px solid #ddd;
   object-fit: cover;
 }
 
@@ -62,12 +68,22 @@ My research interests center on **Humanoid Loco-Manipulation** and **Human Data 
   flex: 0 0 100%;
   width: 100%;
   max-width: 100%;
-  margin-bottom: 8px;
-  color: #555;
-  font-size: 1rem;
+  margin-bottom: 9px;
+  color: #333;
+  font-size: 1.02rem;
   font-weight: 700;
   line-height: 1.35;
   text-align: center !important;
+}
+
+.demo-caption::after {
+  content: "";
+  display: block;
+  width: 32px;
+  height: 2px;
+  margin: 6px auto 0;
+  background: #b9b9b9;
+  border-radius: 2px;
 }
 
 @media (max-width: 640px) {
@@ -76,6 +92,10 @@ My research interests center on **Humanoid Loco-Manipulation** and **Human Data 
     width: 100%;
     max-width: 100%;
     row-gap: 22px;
+  }
+
+  .demo-item {
+    padding: 8px;
   }
 }
 </style>
