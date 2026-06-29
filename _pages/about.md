@@ -428,9 +428,37 @@ function setHomepageLanguage(lang) {
   });
   document.documentElement.lang = targetLang === 'zh' ? 'zh-CN' : 'en';
   updateAuthorProfileLanguage(targetLang);
+  updateNavigationLanguage(targetLang);
   try {
     window.localStorage.setItem('homepageLanguage', targetLang);
   } catch (error) {}
+}
+
+function updateNavigationLanguage(lang) {
+  var labels = lang === 'zh' ? {
+    Homepage: "主页",
+    "About Me": "关于我",
+    News: "动态",
+    Publications: "论文",
+    Services: "服务",
+    "Research Experience": "研究经历",
+    Educations: "教育经历"
+  } : {
+    "主页": "Homepage",
+    "关于我": "About Me",
+    "动态": "News",
+    "论文": "Publications",
+    "服务": "Services",
+    "研究经历": "Research Experience",
+    "教育经历": "Educations"
+  };
+
+  document.querySelectorAll(".masthead__menu-item a").forEach(function(link) {
+    var text = link.textContent.trim();
+    if (labels[text]) {
+      link.textContent = labels[text];
+    }
+  });
 }
 
 function setAuthorLinkText(selector, text) {
