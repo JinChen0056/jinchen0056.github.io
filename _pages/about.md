@@ -29,6 +29,72 @@ My research interests center on **Humanoid Loco-Manipulation** and **Human Data 
 - *2026.01*: &nbsp;🎉 **WholeBodyVLA** is accepted by **ICLR 2026**!
 
 
+# 🎬 Demos
+
+<style>
+.demo-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+  margin: 0.8rem 0 1.8rem;
+}
+
+.demo-item {
+  margin: 0;
+}
+
+.demo-video {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  background: #111;
+  border-radius: 6px;
+  object-fit: cover;
+}
+
+.demo-caption {
+  margin-top: 6px;
+  color: #555;
+  font-size: 0.82rem;
+  line-height: 1.35;
+  text-align: center;
+}
+
+@media (max-width: 640px) {
+  .demo-grid {
+    grid-template-columns: 1fr;
+  }
+}
+</style>
+
+<div class="demo-grid">
+  <figure class="demo-item">
+    <video class="demo-video" controls muted playsinline preload="metadata" poster="images/demos/throw-trash.jpg">
+      <source src="images/demos/throw-trash.mp4" type="video/mp4">
+    </video>
+    <figcaption class="demo-caption">Throwing Trash</figcaption>
+  </figure>
+  <figure class="demo-item">
+    <video class="demo-video" controls muted playsinline preload="metadata" poster="images/demos/push-chair.jpg">
+      <source src="images/demos/push-chair.mp4" type="video/mp4">
+    </video>
+    <figcaption class="demo-caption">Pushing Chair</figcaption>
+  </figure>
+  <figure class="demo-item">
+    <video class="demo-video" controls muted playsinline preload="metadata" poster="images/demos/pick-plush.jpg">
+      <source src="images/demos/pick-plush.mp4" type="video/mp4">
+    </video>
+    <figcaption class="demo-caption">Picking Plush Toy</figcaption>
+  </figure>
+  <figure class="demo-item">
+    <video class="demo-video" controls muted playsinline preload="metadata" poster="images/demos/close-laptop.jpg">
+      <source src="images/demos/close-laptop.mp4" type="video/mp4">
+    </video>
+    <figcaption class="demo-caption">Closing Laptop</figcaption>
+  </figure>
+</div>
+
+
 # 📝 Selected Publications
 
 <div class='paper-box'>
