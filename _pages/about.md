@@ -35,8 +35,10 @@ My research interests center on **Humanoid Loco-Manipulation** and **Human Data 
 .demo-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 14px;
-  margin: 0.8rem 0 1.8rem;
+  column-gap: 28px;
+  row-gap: 24px;
+  margin: 0.8rem auto 1.8rem;
+  max-width: 92%;
 }
 
 .demo-item {
