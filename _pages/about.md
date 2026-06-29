@@ -448,9 +448,9 @@ function setAuthorLinkText(selector, text) {
 
 function updateAuthorProfileLanguage(lang) {
   var content = lang === 'zh' ? {
-    name: "陈金 | 别名：西星",
-    bio: "复旦大学与上海创智学院博士生 | OpenDriveLab at HKU",
-    location: "杭州，中国",
+    name: "陈晋 | 花名：晞行",
+    bio: "复旦大学与上海创智学院联合培养博士生 | 香港大学 OpenDriveLab 团队",
+    location: "中国，杭州",
     email: "邮箱",
     github: "GitHub",
     scholar: "谷歌学术"
