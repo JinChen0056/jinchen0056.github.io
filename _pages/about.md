@@ -47,10 +47,6 @@ redirect_from:
   display: none;
 }
 
-.cv-links {
-  margin: 0.9rem 0 1.3rem;
-  font-weight: 700;
-}
 </style>
 
 <div class="language-switcher" aria-label="Language switcher">
@@ -63,11 +59,6 @@ redirect_from:
 I am a PhD student jointly affiliated with [Fudan University](https://www.fudan.edu.cn/) and the [Shanghai Innovation Institute](https://www.sii.edu.cn/), working at [OpenDriveLab](https://www.opendrivelab.com/) under the supervision of [Prof. Hongyang Li](https://lihongyang.info/).
 
 My research interests center on **Humanoid Loco-Manipulation** and **Human Data Scaling**. Always happy to chat and exchange ideas — feel free to drop me an email.
-
-<div class="cv-links">
-CV: <a href="files/cv_en.pdf">English PDF</a> · <a href="files/cv_zh.html">中文简历</a>
-</div>
-
 
 # 🔥 News
 - *2026.05*: &nbsp;🎉 **EgoHumanoid** is accepted by **RSS 2026** and fully open-sourced!
@@ -285,11 +276,6 @@ Two tracks — **Manipulation** and **World Model** — attracting 300+ teams wo
 
 我的研究方向聚焦于**人形机器人移动操作**与**人类数据规模化**。欢迎通过邮件交流讨论。
 
-<div class="cv-links">
-简历：<a href="files/cv_zh.html">中文简历</a> · <a href="files/cv_en.pdf">English PDF</a>
-</div>
-
-
 # 🔥 最新动态
 - *2026.05*: &nbsp;🎉 **EgoHumanoid** 被 **RSS 2026** 接收并完整开源。
 - *2026.02*: &nbsp;🎉 加入**阿里巴巴通义实验室**担任研究实习生。
@@ -441,9 +427,54 @@ function setHomepageLanguage(lang) {
     button.classList.toggle('active', button.getAttribute('data-lang-switch') === targetLang);
   });
   document.documentElement.lang = targetLang === 'zh' ? 'zh-CN' : 'en';
+  updateAuthorProfileLanguage(targetLang);
   try {
     window.localStorage.setItem('homepageLanguage', targetLang);
   } catch (error) {}
+}
+
+function setAuthorLinkText(selector, text) {
+  document.querySelectorAll(selector).forEach(function(link) {
+    var icon = link.querySelector('i');
+    link.textContent = "";
+    if (icon) {
+      link.appendChild(icon);
+      link.appendChild(document.createTextNode(" " + text));
+    } else {
+      link.textContent = text;
+    }
+  });
+}
+
+function updateAuthorProfileLanguage(lang) {
+  var content = lang === 'zh' ? {
+    name: "陈金 | 别名：西星",
+    bio: "复旦大学与上海创智学院博士生 | OpenDriveLab at HKU",
+    location: "杭州，中国",
+    email: "邮箱",
+    github: "GitHub",
+    scholar: "谷歌学术"
+  } : {
+    name: "Jin Chen | Alias: Xixing",
+    bio: "PhD student at Fudan University and SII | OpenDriveLab at HKU",
+    location: "Hangzhou, China",
+    email: "Email",
+    github: "Github",
+    scholar: "Google Scholar"
+  };
+
+  var authorName = document.querySelector(".author__name");
+  var authorBio = document.querySelector(".author__bio");
+  var authorLocationIcon = document.querySelector(".author__urls .fa-map-marker");
+  if (authorName) authorName.textContent = content.name;
+  if (authorBio) authorBio.textContent = content.bio;
+  if (authorLocationIcon && authorLocationIcon.parentElement) {
+    authorLocationIcon.parentElement.innerHTML = '<i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> ' + content.location;
+  }
+
+  setAuthorLinkText('.author__urls a[href^="mailto:"]', content.email);
+  setAuthorLinkText('.author__urls a[href^="https://github.com/"]', content.github);
+  setAuthorLinkText('.author__urls a[href^="https://scholar.google.com/"]', content.scholar);
 }
 
 document.querySelectorAll('[data-lang-switch]').forEach(function(button) {
