@@ -53,9 +53,10 @@ My research interests center on **Humanoid Loco-Manipulation** and **Human Data 
 }
 
 .demo-caption {
-  margin-top: 6px;
+  margin-bottom: 8px;
   color: #555;
-  font-size: 0.82rem;
+  font-size: 1rem;
+  font-weight: 700;
   line-height: 1.35;
   text-align: center;
 }
@@ -69,28 +70,28 @@ My research interests center on **Humanoid Loco-Manipulation** and **Human Data 
 
 <div class="demo-grid">
   <figure class="demo-item">
+    <figcaption class="demo-caption">Throwing Trash</figcaption>
     <video class="demo-video" controls muted playsinline preload="metadata" poster="images/demos/throw-trash.jpg">
       <source src="images/demos/throw-trash.mp4" type="video/mp4">
     </video>
-    <figcaption class="demo-caption">Throwing Trash</figcaption>
   </figure>
   <figure class="demo-item">
+    <figcaption class="demo-caption">Pushing Chair</figcaption>
     <video class="demo-video" controls muted playsinline preload="metadata" poster="images/demos/push-chair.jpg">
       <source src="images/demos/push-chair.mp4" type="video/mp4">
     </video>
-    <figcaption class="demo-caption">Pushing Chair</figcaption>
   </figure>
   <figure class="demo-item">
+    <figcaption class="demo-caption">Picking Plush Toy</figcaption>
     <video class="demo-video" controls muted playsinline preload="metadata" poster="images/demos/pick-plush.jpg">
       <source src="images/demos/pick-plush.mp4" type="video/mp4">
     </video>
-    <figcaption class="demo-caption">Picking Plush Toy</figcaption>
   </figure>
   <figure class="demo-item">
+    <figcaption class="demo-caption">Closing Laptop</figcaption>
     <video class="demo-video" controls muted playsinline preload="metadata" poster="images/demos/close-laptop.jpg">
       <source src="images/demos/close-laptop.mp4" type="video/mp4">
     </video>
-    <figcaption class="demo-caption">Closing Laptop</figcaption>
   </figure>
 </div>
 
