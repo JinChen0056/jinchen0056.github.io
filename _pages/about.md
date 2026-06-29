@@ -35,10 +35,11 @@ My research interests center on **Humanoid Loco-Manipulation** and **Human Data 
 .demo-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
-  column-gap: 28px;
-  row-gap: 24px;
+  column-gap: 40px;
+  row-gap: 28px;
   margin: 0.8rem auto 1.8rem;
-  max-width: 92%;
+  width: 86%;
+  max-width: 900px;
 }
 
 .demo-item {
@@ -72,6 +73,9 @@ My research interests center on **Humanoid Loco-Manipulation** and **Human Data 
 @media (max-width: 640px) {
   .demo-grid {
     grid-template-columns: 1fr;
+    width: 100%;
+    max-width: 100%;
+    row-gap: 22px;
   }
 }
 </style>
