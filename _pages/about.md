@@ -40,6 +40,8 @@ My research interests center on **Humanoid Loco-Manipulation** and **Human Data 
 }
 
 .demo-item {
+  display: block;
+  width: 100%;
   margin: 0;
 }
 
@@ -53,12 +55,16 @@ My research interests center on **Humanoid Loco-Manipulation** and **Human Data 
 }
 
 .demo-caption {
+  display: block;
+  flex: 0 0 100%;
+  width: 100%;
+  max-width: 100%;
   margin-bottom: 8px;
   color: #555;
   font-size: 1rem;
   font-weight: 700;
   line-height: 1.35;
-  text-align: center;
+  text-align: center !important;
 }
 
 @media (max-width: 640px) {
