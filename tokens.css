@@ -1,0 +1,11 @@
+:root {
+  --color-paper: #ffffff;
+  --color-surface: #f4f7f7;
+  --color-ink: #242b2d;
+  --color-muted: #59666b;
+  --color-accent: #146b76;
+  --color-rule: #dfe6e7;
+  --color-focus: #257c99;
+  --font-body: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", "PingFang SC", "Microsoft YaHei", sans-serif;
+  --font-display: var(--font-body);
+}
