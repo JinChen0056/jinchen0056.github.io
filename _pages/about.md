@@ -68,105 +68,6 @@ My research interests center on **Humanoid Loco-Manipulation** and **Human Data 
 - *2026.01*: &nbsp;🎉 **WholeBodyVLA** is accepted by **ICLR 2026**!
 
 
-# 🎬 Demos
-
-<style>
-.demo-grid {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  column-gap: 34px;
-  row-gap: 30px;
-  margin: 1rem auto 2rem;
-  width: 90%;
-  max-width: 960px;
-}
-
-.demo-item {
-  display: block;
-  width: 100%;
-  margin: 0;
-  padding: 10px;
-  background: #fafafa;
-  border: 1px solid #e8e8e8;
-  border-radius: 8px;
-  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.06);
-}
-
-.demo-video {
-  display: block;
-  width: 100%;
-  aspect-ratio: 16 / 9;
-  background: #111;
-  border-radius: 6px;
-  border: 1px solid #ddd;
-  object-fit: cover;
-}
-
-.demo-caption {
-  display: block;
-  flex: 0 0 100%;
-  width: 100%;
-  max-width: 100%;
-  margin-bottom: 9px;
-  color: #333;
-  font-size: 1.02rem;
-  font-weight: 700;
-  line-height: 1.35;
-  text-align: center !important;
-}
-
-.demo-caption::after {
-  content: "";
-  display: block;
-  width: 32px;
-  height: 2px;
-  margin: 6px auto 0;
-  background: #b9b9b9;
-  border-radius: 2px;
-}
-
-@media (max-width: 640px) {
-  .demo-grid {
-    grid-template-columns: 1fr;
-    width: 100%;
-    max-width: 100%;
-    row-gap: 22px;
-  }
-
-  .demo-item {
-    padding: 8px;
-  }
-}
-</style>
-
-<div class="demo-grid">
-  <figure class="demo-item">
-    <figcaption class="demo-caption">Throwing Trash</figcaption>
-    <video class="demo-video" controls muted playsinline preload="metadata" poster="images/demos/throw-trash.jpg">
-      <source src="images/demos/throw-trash.mp4" type="video/mp4">
-    </video>
-  </figure>
-  <figure class="demo-item">
-    <figcaption class="demo-caption">Pushing Chair</figcaption>
-    <video class="demo-video" controls muted playsinline preload="metadata" poster="images/demos/push-chair.jpg">
-      <source src="images/demos/push-chair.mp4" type="video/mp4">
-    </video>
-  </figure>
-  <figure class="demo-item">
-    <figcaption class="demo-caption">Picking Plush Toy</figcaption>
-    <video class="demo-video" controls muted playsinline preload="metadata" poster="images/demos/pick-plush.jpg">
-      <source src="images/demos/pick-plush.mp4" type="video/mp4">
-    </video>
-  </figure>
-  <figure class="demo-item">
-    <figcaption class="demo-caption">Closing Laptop</figcaption>
-    <video class="demo-video" controls muted playsinline preload="metadata" poster="images/demos/close-laptop.jpg">
-      <source src="images/demos/close-laptop.mp4" type="video/mp4">
-    </video>
-  </figure>
-</div>
-
-
 # 📝 Selected Publications
 
 <div class='paper-box'>
@@ -289,6 +190,105 @@ Modi Shi<sup>\*</sup>, Li Chen<sup>\*</sup>, **Jin Chen**<sup>\*</sup>, Yuxiang 
 </div>
 
 
+# 🎬 Demos
+
+<style>
+.demo-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  column-gap: 34px;
+  row-gap: 30px;
+  margin: 1rem auto 2rem;
+  width: 90%;
+  max-width: 960px;
+}
+
+.demo-item {
+  display: block;
+  width: 100%;
+  margin: 0;
+  padding: 10px;
+  background: #fafafa;
+  border: 1px solid #e8e8e8;
+  border-radius: 8px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.06);
+}
+
+.demo-video {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  background: #111;
+  border-radius: 6px;
+  border: 1px solid #ddd;
+  object-fit: cover;
+}
+
+.demo-caption {
+  display: block;
+  flex: 0 0 100%;
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: 9px;
+  color: #333;
+  font-size: 1.02rem;
+  font-weight: 700;
+  line-height: 1.35;
+  text-align: center !important;
+}
+
+.demo-caption::after {
+  content: "";
+  display: block;
+  width: 32px;
+  height: 2px;
+  margin: 6px auto 0;
+  background: #b9b9b9;
+  border-radius: 2px;
+}
+
+@media (max-width: 640px) {
+  .demo-grid {
+    grid-template-columns: 1fr;
+    width: 100%;
+    max-width: 100%;
+    row-gap: 22px;
+  }
+
+  .demo-item {
+    padding: 8px;
+  }
+}
+</style>
+
+<div class="demo-grid">
+  <figure class="demo-item">
+    <figcaption class="demo-caption">Throwing Trash</figcaption>
+    <video class="demo-video" controls muted playsinline preload="metadata" poster="images/demos/throw-trash.jpg">
+      <source src="images/demos/throw-trash.mp4" type="video/mp4">
+    </video>
+  </figure>
+  <figure class="demo-item">
+    <figcaption class="demo-caption">Pushing Chair</figcaption>
+    <video class="demo-video" controls muted playsinline preload="metadata" poster="images/demos/push-chair.jpg">
+      <source src="images/demos/push-chair.mp4" type="video/mp4">
+    </video>
+  </figure>
+  <figure class="demo-item">
+    <figcaption class="demo-caption">Picking Plush Toy</figcaption>
+    <video class="demo-video" controls muted playsinline preload="metadata" poster="images/demos/pick-plush.jpg">
+      <source src="images/demos/pick-plush.mp4" type="video/mp4">
+    </video>
+  </figure>
+  <figure class="demo-item">
+    <figcaption class="demo-caption">Closing Laptop</figcaption>
+    <video class="demo-video" controls muted playsinline preload="metadata" poster="images/demos/close-laptop.jpg">
+      <source src="images/demos/close-laptop.mp4" type="video/mp4">
+    </video>
+  </figure>
+</div>
+
+
 # 🎯 Academic Services
 
 <div class='paper-box'>
@@ -335,36 +335,6 @@ Two tracks — **Manipulation** and **World Model** — attracting 300+ teams wo
 - *2026.02*: &nbsp;🎉 加入**阿里巴巴通义实验室**担任研究实习生。
 - *2026.02*: &nbsp;📢 **EgoHumanoid** 发布于 arXiv：一个基于人类第一视角演示的人形机器人移动操作迁移框架。
 - *2026.01*: &nbsp;🎉 **WholeBodyVLA** 被 **ICLR 2026** 接收。
-
-
-# 🎬 演示
-
-<div class="demo-grid">
-  <figure class="demo-item">
-    <figcaption class="demo-caption">扔垃圾</figcaption>
-    <video class="demo-video" controls muted playsinline preload="metadata" poster="images/demos/throw-trash.jpg">
-      <source src="images/demos/throw-trash.mp4" type="video/mp4">
-    </video>
-  </figure>
-  <figure class="demo-item">
-    <figcaption class="demo-caption">推椅子</figcaption>
-    <video class="demo-video" controls muted playsinline preload="metadata" poster="images/demos/push-chair.jpg">
-      <source src="images/demos/push-chair.mp4" type="video/mp4">
-    </video>
-  </figure>
-  <figure class="demo-item">
-    <figcaption class="demo-caption">收玩偶</figcaption>
-    <video class="demo-video" controls muted playsinline preload="metadata" poster="images/demos/pick-plush.jpg">
-      <source src="images/demos/pick-plush.mp4" type="video/mp4">
-    </video>
-  </figure>
-  <figure class="demo-item">
-    <figcaption class="demo-caption">合上电脑</figcaption>
-    <video class="demo-video" controls muted playsinline preload="metadata" poster="images/demos/close-laptop.jpg">
-      <source src="images/demos/close-laptop.mp4" type="video/mp4">
-    </video>
-  </figure>
-</div>
 
 
 # 📝 代表性论文
@@ -486,6 +456,36 @@ Modi Shi<sup>\*</sup>, Li Chen<sup>\*</sup>, **Jin Chen**<sup>\*</sup>, Yuxiang 
 <sub><i>研究真实机器人数据多样性如何影响 VLA 基础模型性能扩展规律。</i></sub>
 
 </div>
+</div>
+
+
+# 🎬 演示
+
+<div class="demo-grid">
+  <figure class="demo-item">
+    <figcaption class="demo-caption">扔垃圾</figcaption>
+    <video class="demo-video" controls muted playsinline preload="metadata" poster="images/demos/throw-trash.jpg">
+      <source src="images/demos/throw-trash.mp4" type="video/mp4">
+    </video>
+  </figure>
+  <figure class="demo-item">
+    <figcaption class="demo-caption">推椅子</figcaption>
+    <video class="demo-video" controls muted playsinline preload="metadata" poster="images/demos/push-chair.jpg">
+      <source src="images/demos/push-chair.mp4" type="video/mp4">
+    </video>
+  </figure>
+  <figure class="demo-item">
+    <figcaption class="demo-caption">收玩偶</figcaption>
+    <video class="demo-video" controls muted playsinline preload="metadata" poster="images/demos/pick-plush.jpg">
+      <source src="images/demos/pick-plush.mp4" type="video/mp4">
+    </video>
+  </figure>
+  <figure class="demo-item">
+    <figcaption class="demo-caption">合上电脑</figcaption>
+    <video class="demo-video" controls muted playsinline preload="metadata" poster="images/demos/close-laptop.jpg">
+      <source src="images/demos/close-laptop.mp4" type="video/mp4">
+    </video>
+  </figure>
 </div>
 
 
