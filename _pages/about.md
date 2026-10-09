@@ -170,6 +170,23 @@ My research interests center on **Humanoid Loco-Manipulation** and **Human Data 
 # 📝 Selected Publications
 
 <div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/papers/egohumanoid-v2.jpg' alt="egohumanoid-v2 research overview" width="100%" loading="lazy"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[EgoHumanoid-V2: Human-to-Humanoid Transfer of Coordinated Whole-Body Skills for Loco-Manipulation](https://opendrivelab.com/EgoHumanoid-V2/)**
+
+**Jin Chen**, Yiming Jiang, Chongyang Xu, Modi Shi, Shijia Peng, Li Chen, Tianyu Li, Mu Xu, Yilun Chen, Steven Hoi, Hongyang Li
+
+*arXiv preprint*, 2026
+
+[**Project**](https://opendrivelab.com/EgoHumanoid-V2/) \| [**arXiv**](https://arxiv.org/abs/2609.37181)
+
+<sub><i>Transfers coordinated whole-body skills from egocentric human demonstrations through coarse-to-fine action alignment and visual alignment, with zero-shot deployment on four real-world tasks.</i></sub>
+
+</div>
+</div>
+
+<div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/papers/lambda0.jpg' alt="lambda0 research overview" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -204,23 +221,6 @@ Yiming Jiang, **Jin Chen**, Chongyang Xu, Yilun Chen, Aimin Hao, Yisheng He
 </div>
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/papers/egohumanoid-v2.jpg' alt="egohumanoid-v2 research overview" width="100%" loading="lazy"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**[EgoHumanoid-V2: Human-to-Humanoid Transfer of Coordinated Whole-Body Skills for Loco-Manipulation](https://opendrivelab.com/EgoHumanoid-V2/)**
-
-**Jin Chen**, Yiming Jiang, Chongyang Xu, Modi Shi, Shijia Peng, Li Chen, Tianyu Li, Mu Xu, Yilun Chen, Steven Hoi, Hongyang Li
-
-*arXiv preprint*, 2026
-
-[**Project**](https://opendrivelab.com/EgoHumanoid-V2/) \| [**arXiv**](https://arxiv.org/abs/2609.37181)
-
-<sub><i>Transfers coordinated whole-body skills from egocentric human demonstrations through coarse-to-fine action alignment and visual alignment, with zero-shot deployment on four real-world tasks.</i></sub>
-
-</div>
-</div>
-
-<div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">RSS 2026</div><img src='images/papers/egohumanoid.jpg' data-gif='images/papers/egohumanoid.gif' alt="sym" width="100%" class="lazy-gif"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -238,14 +238,14 @@ Modi Shi<sup>\*</sup>, Shijia Peng<sup>\*</sup>, **Jin Chen**<sup>\*</sup>, Haor
 </div>
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/papers/kai0.jpg' data-gif='images/papers/kai0.gif' alt="sym" width="100%" class="lazy-gif"></div></div>
+<div class='paper-box-image'><div><div class="badge">RSS 2026 Workshop</div><img src='images/papers/kai0.jpg' data-gif='images/papers/kai0.gif' alt="sym" width="100%" class="lazy-gif"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[&chi;&#x2080;: Resource-Aware Robust Manipulation via Taming Distributional Inconsistencies](https://opendrivelab.com/kai0)**
 
 Checheng Yu, Chonghao Sima, Gangcheng Jiang, Hai Zhang, Haoguang Mai, Hongyang Li, Huijie Wang, **Jin Chen**, Kaiyang Wu, Li Chen, Lirui Zhao, Modi Shi, Ping Luo, Qingwen Bu, Shijia Peng, Tianyu Li, Yibo Yuan &nbsp; <sub><i>(authors listed alphabetically)</i></sub>
 
-*arXiv preprint*, 2026
+*[RSS 2026 Workshop on Beyond Rigidity](https://rss2026-beyond-rigidity.github.io/)*, 2026
 
 [**Project**](https://opendrivelab.com/kai0) \| [**GitHub**](https://github.com/OpenDriveLab/kai0) \| [**arXiv**](https://arxiv.org/abs/2602.09021)
 
@@ -369,6 +369,23 @@ Two tracks — **Manipulation** and **World Model** — attracting 300+ teams wo
 # 📝 代表性论文
 
 <div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/papers/egohumanoid-v2.jpg' alt="egohumanoid-v2 research overview" width="100%" loading="lazy"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[EgoHumanoid-V2: Human-to-Humanoid Transfer of Coordinated Whole-Body Skills for Loco-Manipulation](https://opendrivelab.com/EgoHumanoid-V2/)**
+
+**Jin Chen**, Yiming Jiang, Chongyang Xu, Modi Shi, Shijia Peng, Li Chen, Tianyu Li, Mu Xu, Yilun Chen, Steven Hoi, Hongyang Li
+
+*arXiv preprint*, 2026
+
+[**项目主页**](https://opendrivelab.com/EgoHumanoid-V2/) \| [**arXiv**](https://arxiv.org/abs/2609.37181)
+
+<sub><i>通过由粗到细的动作对齐与视觉对齐，将第一视角人类示范中的全身协同技能迁移到人形机器人，并在四项真实任务上实现零样本部署。</i></sub>
+
+</div>
+</div>
+
+<div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/papers/lambda0.jpg' alt="lambda0 research overview" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -403,23 +420,6 @@ Yiming Jiang, **Jin Chen**, Chongyang Xu, Yilun Chen, Aimin Hao, Yisheng He
 </div>
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/papers/egohumanoid-v2.jpg' alt="egohumanoid-v2 research overview" width="100%" loading="lazy"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**[EgoHumanoid-V2: Human-to-Humanoid Transfer of Coordinated Whole-Body Skills for Loco-Manipulation](https://opendrivelab.com/EgoHumanoid-V2/)**
-
-**Jin Chen**, Yiming Jiang, Chongyang Xu, Modi Shi, Shijia Peng, Li Chen, Tianyu Li, Mu Xu, Yilun Chen, Steven Hoi, Hongyang Li
-
-*arXiv preprint*, 2026
-
-[**项目主页**](https://opendrivelab.com/EgoHumanoid-V2/) \| [**arXiv**](https://arxiv.org/abs/2609.37181)
-
-<sub><i>通过由粗到细的动作对齐与视觉对齐，将第一视角人类示范中的全身协同技能迁移到人形机器人，并在四项真实任务上实现零样本部署。</i></sub>
-
-</div>
-</div>
-
-<div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">RSS 2026</div><img src='images/papers/egohumanoid.jpg' data-gif='images/papers/egohumanoid.gif' alt="EgoHumanoid" width="100%" class="lazy-gif"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -437,14 +437,14 @@ Modi Shi<sup>\*</sup>, Shijia Peng<sup>\*</sup>, **Jin Chen**<sup>\*</sup>, Haor
 </div>
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/papers/kai0.jpg' data-gif='images/papers/kai0.gif' alt="kai0" width="100%" class="lazy-gif"></div></div>
+<div class='paper-box-image'><div><div class="badge">RSS 2026 Workshop</div><img src='images/papers/kai0.jpg' data-gif='images/papers/kai0.gif' alt="kai0" width="100%" class="lazy-gif"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[&chi;&#x2080;: Resource-Aware Robust Manipulation via Taming Distributional Inconsistencies](https://opendrivelab.com/kai0)**
 
 Checheng Yu, Chonghao Sima, Gangcheng Jiang, Hai Zhang, Haoguang Mai, Hongyang Li, Huijie Wang, **Jin Chen**, Kaiyang Wu, Li Chen, Lirui Zhao, Modi Shi, Ping Luo, Qingwen Bu, Shijia Peng, Tianyu Li, Yibo Yuan &nbsp; <sub><i>作者按字母序排列</i></sub>
 
-*arXiv preprint*, 2026
+*[RSS 2026 Workshop on Beyond Rigidity](https://rss2026-beyond-rigidity.github.io/)*, 2026
 
 [**项目主页**](https://opendrivelab.com/kai0) \| [**GitHub**](https://github.com/OpenDriveLab/kai0) \| [**arXiv**](https://arxiv.org/abs/2602.09021)
 
