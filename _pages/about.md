@@ -640,6 +640,17 @@ document.querySelectorAll('[data-lang-switch]').forEach(function(button) {
   });
 });
 
+// Use native section offsets instead of the legacy theme's fixed scroll offset.
+document.querySelector('.academic-nav').addEventListener('click', function(event) {
+  var link = event.target.closest('a');
+  if (!link || !link.hash) return;
+  var section = document.getElementById(link.hash.slice(1));
+  if (!section) return;
+  event.preventDefault();
+  event.stopImmediatePropagation();
+  section.scrollIntoView({ block: 'start' });
+}, true);
+
 try {
   setHomepageLanguage(window.localStorage.getItem('homepageLanguage') || 'en');
 } catch (error) {
