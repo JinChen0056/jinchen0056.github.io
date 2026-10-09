@@ -1,6 +1,6 @@
 /* Hallmark: academic portfolio with chromatic details and moving light.
    Pre-emit critique: philosophy 4, hierarchy 4, execution 4, specificity 4, restraint 5, variety 4. */
-@import url('../../tokens.css?v=quiet-2');
+@import url('../../tokens.css?v=balanced-3');
 
 html { font-size: 16px; scroll-padding-top: 0; overflow-x: clip; }
 body { background: var(--color-paper); color: var(--color-ink); font-family: var(--font-body); font-size: 15px; line-height: 1.75; overflow-x: clip; letter-spacing: 0; }
@@ -73,7 +73,8 @@ a:focus-visible, button:focus-visible { outline: 2px solid var(--color-focus); o
 .page__content .demo-caption::after { display: none; }
 .page__content .demo-video { border: 1px solid var(--color-rule); border-radius: 5px; }
 body {
-  background-image: none;
+  background-image: linear-gradient(100deg, var(--color-edge-cool), var(--color-paper) 30%, var(--color-paper) 76%, var(--color-edge-warm));
+  background-attachment: fixed;
 }
 .masthead {
   background: var(--color-paper);
@@ -98,15 +99,16 @@ body {
   transition: transform 180ms ease;
 }
 .academic-nav li a:hover::after, .academic-nav li a:focus-visible::after { transform: scaleX(1); }
-div.author__avatar { padding: 0; border-radius: 50%; background: none; box-shadow: none; }
-div.author__avatar img { width: 100%; height: 100%; border: 1px solid var(--color-rule); }
-.sidebar .author__name { color: var(--color-ink); font-size: 30px; }
+div.author__avatar { padding: 2px; border-radius: 50%; background: linear-gradient(135deg, var(--color-profile-blue), var(--color-profile-rose)); box-shadow: 0 5px 16px var(--color-profile-shadow); }
+div.author__avatar img { width: 100%; height: 100%; border: 3px solid var(--color-paper); }
+.sidebar .author__name { color: var(--color-accent); font-size: 30px; }
 .sidebar .author__alias { color: var(--color-muted); }
 .author__urls { border-image: none; }
-.author__urls li i { color: var(--color-muted); }
+.author__urls li i { color: var(--color-accent); }
 .page__content .language-switcher button { background: var(--color-glass); }
 .page__content .language-switcher button.active { background: var(--color-surface); border-color: var(--color-rule); color: var(--color-ink); }
 .lang-panel > p:nth-of-type(2) strong { color: var(--color-ink); }
+.lang-panel > p:nth-of-type(2) strong:first-child { color: var(--color-accent); }
 .page__content h1 {
   --section-color: var(--color-cyan);
   position: relative; padding-left: 0; border-bottom: 0; padding-bottom: 14px;
