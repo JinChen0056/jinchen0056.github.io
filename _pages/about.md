@@ -68,6 +68,8 @@ My research interests center on **Humanoid Loco-Manipulation** and **Human Data 
 - *2026.01*: &nbsp;🎉 **WholeBodyVLA** is accepted by **ICLR 2026**!
 
 
+<hr>
+
 # 📝 Selected Publications
 
 <div class='paper-box'>
@@ -336,6 +338,8 @@ Two tracks — **Manipulation** and **World Model** — attracting 300+ teams wo
 - *2026.02*: &nbsp;📢 **EgoHumanoid** 发布于 arXiv：一个基于人类第一视角演示的人形机器人移动操作迁移框架。
 - *2026.01*: &nbsp;🎉 **WholeBodyVLA** 被 **ICLR 2026** 接收。
 
+
+<hr>
 
 # 📝 代表性论文
 
