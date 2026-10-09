@@ -1,6 +1,6 @@
 /* Hallmark: academic portfolio with chromatic details and moving light.
    Pre-emit critique: philosophy 4, hierarchy 4, execution 4, specificity 4, restraint 5, variety 4. */
-@import url('../../tokens.css?v=balanced-3');
+@import url('../../tokens.css?v=original-badge');
 
 html { font-size: 16px; scroll-padding-top: 0; overflow-x: clip; }
 body { background: var(--color-paper); color: var(--color-ink); font-family: var(--font-body); font-size: 15px; line-height: 1.75; overflow-x: clip; letter-spacing: 0; }
@@ -143,15 +143,18 @@ div.author__avatar img { width: 100%; height: 100%; border: 3px solid var(--colo
 .page__content .badge {
   position: absolute;
   z-index: 1;
-  top: 8px;
-  left: 8px;
-  max-width: calc(100% - 16px);
+  top: .5em;
+  left: -.5em;
+  max-width: 100%;
   margin: 0;
-  padding: 3px 8px;
+  padding: 0 1rem;
+  font-size: .8em;
+  font-weight: 400;
+  line-height: 1.75;
   color: var(--color-paper);
-  background: var(--color-accent);
+  background: var(--color-publication-badge);
   border: 0;
-  border-radius: 3px;
+  border-radius: 0;
 }
 .paper-box-text p:first-child a:hover { color: var(--paper-accent); }
 .page__content .paper-box-image img { border-color: var(--color-rule); }
