@@ -310,7 +310,7 @@ Two tracks — **Manipulation** and **World Model** — attracting 300+ teams wo
 
 
 # 💻 Research Experience
-- *2026.10 - Present*, [Amap (ABot), Alibaba](https://abot.amap.com/), Research Intern. <img src='images/logos/amap.png' alt='Amap' style='width:32px;height:32px;object-fit:contain;vertical-align:middle;margin-left:6px'>
+- *2026.10 - Present*, [Amap (ABot), Alibaba](https://abot.amap.com/), Research Intern. <img src='images/logos/amap-plane.ico' alt='Amap' style='width:32px;height:32px;object-fit:contain;vertical-align:middle;margin-left:6px'>
 - *2026.02 - 2026.09*, [Tongyi Lab, Alibaba (通义实验室)](https://tongyi.aliyun.com/), Research Intern. <img src='images/logos/tongyi.svg' style='height:32px;vertical-align:middle;margin-left:6px'>
 - *2025.12 - 2026.01*, [KAI (超维动力)](https://www.kinetixai.tech/), Research Intern. <img src='images/logos/kai.svg' style='height:20px;vertical-align:middle;margin-left:6px;filter:invert(1)'>
 - *2025.05 - 2025.11*, [AgiBot (智元机器人)](https://www.agibot.com/), Research Intern. <img src='images/logos/agibot.png' style='height:32px;vertical-align:middle;margin-left:6px'>
@@ -512,7 +512,7 @@ Modi Shi<sup>\*</sup>, Li Chen<sup>\*</sup>, **Jin Chen**<sup>\*</sup>, Yuxiang 
 
 
 # 💻 研究经历
-- *2026.10 - 至今*, [阿里巴巴高德（ABot）](https://abot.amap.com/), 研究实习生。 <img src='images/logos/amap.png' alt='高德' style='width:32px;height:32px;object-fit:contain;vertical-align:middle;margin-left:6px'>
+- *2026.10 - 至今*, [阿里巴巴高德（ABot）](https://abot.amap.com/), 研究实习生。 <img src='images/logos/amap-plane.ico' alt='高德' style='width:32px;height:32px;object-fit:contain;vertical-align:middle;margin-left:6px'>
 - *2026.02 - 2026.09*, [阿里巴巴通义实验室](https://tongyi.aliyun.com/), 研究实习生。 <img src='images/logos/tongyi.svg' style='height:32px;vertical-align:middle;margin-left:6px'>
 - *2025.12 - 2026.01*, [KAI（超维动力）](https://www.kinetixai.tech/), 研究实习生。 <img src='images/logos/kai.svg' style='height:20px;vertical-align:middle;margin-left:6px;filter:invert(1)'>
 - *2025.05 - 2025.11*, [AgiBot（智元机器人）](https://www.agibot.com/), 研究实习生。 <img src='images/logos/agibot.png' style='height:32px;vertical-align:middle;margin-left:6px'>
