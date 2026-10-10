@@ -528,6 +528,50 @@ Modi Shi<sup>\*</sup>, Li Chen<sup>\*</sup>, **Jin Chen**<sup>\*</sup>, Yuxiang 
 </div>
 
 <script>
+var publicationFilter = 'highlight';
+
+function setPublicationFilter(mode) {
+  publicationFilter = mode === 'all' ? 'all' : 'highlight';
+  document.querySelectorAll('[data-publication]').forEach(function(paper) {
+    paper.hidden = publicationFilter === 'highlight' && paper.dataset.highlight !== 'true';
+  });
+  document.querySelectorAll('[data-publication-filter]').forEach(function(button) {
+    button.setAttribute('aria-pressed', button.dataset.publicationFilter === publicationFilter ? 'true' : 'false');
+  });
+}
+
+document.querySelectorAll('[data-lang-panel]').forEach(function(panel) {
+  var heading = panel.querySelectorAll('h1')[1];
+  var title = document.createElement('span');
+  title.textContent = heading.textContent;
+  heading.textContent = '';
+  heading.appendChild(title);
+  heading.classList.add('publications-heading');
+  var controls = document.createElement('span');
+  controls.className = 'publication-filters';
+  controls.setAttribute('role', 'group');
+  controls.setAttribute('aria-label', panel.dataset.langPanel === 'zh' ? '论文筛选' : 'Publication filter');
+  ['all', 'highlight'].forEach(function(mode) {
+    var button = document.createElement('button');
+    button.type = 'button';
+    button.dataset.publicationFilter = mode;
+    button.textContent = panel.dataset.langPanel === 'zh' ? (mode === 'all' ? '全部' : '精选') : (mode === 'all' ? 'All' : 'Highlight');
+    button.addEventListener('click', function() { setPublicationFilter(mode); });
+    controls.appendChild(button);
+  });
+  heading.appendChild(controls);
+  var paper = heading.nextElementSibling;
+  while (paper && paper.tagName !== 'H1') {
+    if (paper.classList.contains('paper-box')) {
+      paper.dataset.publication = 'true';
+      var preview = paper.querySelector('.paper-box-image img');
+      paper.dataset.highlight = /\/(egohumanoid-v2|egohumanoid|wholebodyvla)\.jpg$/.test(preview.getAttribute('src')) ? 'true' : 'false';
+    }
+    paper = paper.nextElementSibling;
+  }
+});
+setPublicationFilter(publicationFilter);
+
 function setHomepageLanguage(lang) {
   var targetLang = lang === 'zh' ? 'zh' : 'en';
   document.querySelectorAll('[data-lang-panel]').forEach(function(panel) {
