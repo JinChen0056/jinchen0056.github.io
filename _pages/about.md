@@ -90,7 +90,7 @@ My research interests center on **Humanoid Loco-Manipulation** and **Human Data 
 </div>
 
 <div class='paper-box' data-highlight="true">
-<div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/papers/lambda0.jpg' alt="lambda0 research overview" width="100%" loading="lazy"></div></div>
+<div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/papers/lambda0-report.jpg' data-gif='images/papers/lambda0-report.gif' alt="Lambda0 demo: humanoid object transport" width="100%" loading="lazy" class="lazy-gif"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[λ₀: Scaling Open-World Egocentric Human Data for Humanoid Loco-Manipulation](https://arxiv.org/abs/2610.18950)**
@@ -99,7 +99,7 @@ Lambda-humanoid Team
 
 *arXiv technical report*, 2026
 
-[**Project**](https://lambdahumanoid.github.io/) \| [**arXiv**](https://arxiv.org/abs/2610.18950)
+[**Project**](https://lambdahumanoid.github.io/) \| [**GitHub**](https://github.com/LambdaHumanoid/openlambda) \| [**arXiv**](https://arxiv.org/abs/2610.18950)
 
 <sub><i>Scales humanoid loco-manipulation with 500 hours of open-world human data, robot-aligned demonstrations, and a foundation model that improves with more human experience.</i></sub>
 
@@ -378,7 +378,7 @@ Two tracks — **Manipulation** and **World Model** — attracting 300+ teams wo
 </div>
 
 <div class='paper-box' data-highlight="true">
-<div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/papers/lambda0.jpg' alt="lambda0 research overview" width="100%" loading="lazy"></div></div>
+<div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/papers/lambda0-report.jpg' data-gif='images/papers/lambda0-report.gif' alt="Lambda0 demo: humanoid object transport" width="100%" loading="lazy" class="lazy-gif"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[λ₀: Scaling Open-World Egocentric Human Data for Humanoid Loco-Manipulation](https://arxiv.org/abs/2610.18950)**
@@ -387,7 +387,7 @@ Lambda-humanoid Team
 
 *arXiv 技术报告*, 2026
 
-[**项目主页**](https://lambdahumanoid.github.io/) \| [**arXiv**](https://arxiv.org/abs/2610.18950)
+[**项目主页**](https://lambdahumanoid.github.io/) \| [**GitHub**](https://github.com/LambdaHumanoid/openlambda) \| [**arXiv**](https://arxiv.org/abs/2610.18950)
 
 <sub><i>利用 500 小时开放世界人类数据与机器人对齐示范训练人形机器人移动操作基础模型，随人类经验规模增长持续提升任务表现。</i></sub>
 
