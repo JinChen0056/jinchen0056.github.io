@@ -73,7 +73,7 @@ My research interests center on **Humanoid Loco-Manipulation** and **Human Data 
 # 📝 Selected Publications
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/papers/egohumanoid-v2.jpg' alt="egohumanoid-v2 research overview" width="100%" loading="lazy"></div></div>
+<div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/papers/egohumanoid-v2.jpg' alt="egohumanoid-v2 research overview" width="100%" loading="lazy" class="lazy-gif" data-gif="images/papers/egohumanoid-v2.gif"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[EgoHumanoid-V2: Human-to-Humanoid Transfer of Coordinated Whole-Body Skills for Loco-Manipulation](https://opendrivelab.com/EgoHumanoid-V2/)**
@@ -107,7 +107,7 @@ Lambda-humanoid Team
 </div>
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/papers/lambda0.jpg' alt="lambda0 research overview" width="100%" loading="lazy"></div></div>
+<div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/papers/lambda0.jpg' alt="lambda0 research overview" width="100%" loading="lazy" class="lazy-gif" data-gif="images/papers/lambda0.gif"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[Towards a General Humanoid Loco-Manipulation Model via Egocentric Whole-Body Human Data Pretraining](https://lambdahumanoid.github.io/)**
@@ -124,7 +124,7 @@ Chongyang Xu, Zhao Wu, **Jin Chen**, Yiming Jiang, Jinhui Ye, Yuming Jiang, Shif
 </div>
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/papers/egoalign.jpg' alt="egoalign research overview" width="100%" loading="lazy"></div></div>
+<div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/papers/egoalign.jpg' alt="egoalign research overview" width="100%" loading="lazy" class="lazy-gif" data-gif="images/papers/egoalign.gif"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[EgoAlign: Bridging the Human-Humanoid Gap for Long-Range Loco-Manipulation](https://lambdahumanoid.github.io/EgoAlign/)**
@@ -361,7 +361,7 @@ Two tracks — **Manipulation** and **World Model** — attracting 300+ teams wo
 # 📝 代表性论文
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/papers/egohumanoid-v2.jpg' alt="egohumanoid-v2 research overview" width="100%" loading="lazy"></div></div>
+<div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/papers/egohumanoid-v2.jpg' alt="egohumanoid-v2 research overview" width="100%" loading="lazy" class="lazy-gif" data-gif="images/papers/egohumanoid-v2.gif"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[EgoHumanoid-V2: Human-to-Humanoid Transfer of Coordinated Whole-Body Skills for Loco-Manipulation](https://opendrivelab.com/EgoHumanoid-V2/)**
@@ -395,7 +395,7 @@ Lambda-humanoid Team
 </div>
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/papers/lambda0.jpg' alt="lambda0 research overview" width="100%" loading="lazy"></div></div>
+<div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/papers/lambda0.jpg' alt="lambda0 research overview" width="100%" loading="lazy" class="lazy-gif" data-gif="images/papers/lambda0.gif"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[Towards a General Humanoid Loco-Manipulation Model via Egocentric Whole-Body Human Data Pretraining](https://lambdahumanoid.github.io/)**
@@ -412,7 +412,7 @@ Chongyang Xu, Zhao Wu, **Jin Chen**, Yiming Jiang, Jinhui Ye, Yuming Jiang, Shif
 </div>
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/papers/egoalign.jpg' alt="egoalign research overview" width="100%" loading="lazy"></div></div>
+<div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/papers/egoalign.jpg' alt="egoalign research overview" width="100%" loading="lazy" class="lazy-gif" data-gif="images/papers/egoalign.gif"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[EgoAlign: Bridging the Human-Humanoid Gap for Long-Range Loco-Manipulation](https://lambdahumanoid.github.io/EgoAlign/)**
