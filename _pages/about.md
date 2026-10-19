@@ -72,23 +72,6 @@ My research interests center on **Humanoid Loco-Manipulation** and **Human Data 
 
 # 📝 Selected Publications
 
-<div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/papers/egohumanoid-v2.jpg' alt="egohumanoid-v2 research overview" width="100%" loading="lazy" class="lazy-gif" data-gif="images/papers/egohumanoid-v2.gif"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**[EgoHumanoid-V2: Human-to-Humanoid Transfer of Coordinated Whole-Body Skills for Loco-Manipulation](https://opendrivelab.com/EgoHumanoid-V2/)**
-
-**Jin Chen**, Yiming Jiang, Chongyang Xu, Modi Shi, Shijia Peng, Li Chen, Tianyu Li, Mu Xu, Yilun Chen, Steven Hoi, Hongyang Li
-
-*arXiv preprint*, 2026
-
-[**Project**](https://opendrivelab.com/EgoHumanoid-V2/) \| [**arXiv**](https://arxiv.org/abs/2609.37181)
-
-<sub><i>Transfers coordinated whole-body skills from egocentric human demonstrations through coarse-to-fine action alignment and visual alignment, with zero-shot deployment on four real-world tasks.</i></sub>
-
-</div>
-</div>
-
 <div class='paper-box' data-highlight="true">
 <div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/papers/lambda0-report.jpg' data-gif='images/papers/lambda0-report.gif' alt="Lambda0 demo: humanoid object transport" width="100%" loading="lazy" class="lazy-gif"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -102,6 +85,23 @@ Lambda-humanoid Team
 [**Project**](https://lambdahumanoid.github.io/) \| [**GitHub**](https://github.com/LambdaHumanoid/openlambda) \| [**arXiv**](https://arxiv.org/abs/2610.18950)
 
 <sub><i>Scales humanoid loco-manipulation with 500 hours of open-world human data, robot-aligned demonstrations, and a foundation model that improves with more human experience.</i></sub>
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/papers/egohumanoid-v2.jpg' alt="egohumanoid-v2 research overview" width="100%" loading="lazy" class="lazy-gif" data-gif="images/papers/egohumanoid-v2.gif"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[EgoHumanoid-V2: Human-to-Humanoid Transfer of Coordinated Whole-Body Skills for Loco-Manipulation](https://opendrivelab.com/EgoHumanoid-V2/)**
+
+**Jin Chen**, Yiming Jiang, Chongyang Xu, Modi Shi, Shijia Peng, Li Chen, Tianyu Li, Mu Xu, Yilun Chen, Steven Hoi, Hongyang Li
+
+*arXiv preprint*, 2026
+
+[**Project**](https://opendrivelab.com/EgoHumanoid-V2/) \| [**arXiv**](https://arxiv.org/abs/2609.37181)
+
+<sub><i>Transfers coordinated whole-body skills from egocentric human demonstrations through coarse-to-fine action alignment and visual alignment, with zero-shot deployment on four real-world tasks.</i></sub>
 
 </div>
 </div>
@@ -360,23 +360,6 @@ Two tracks — **Manipulation** and **World Model** — attracting 300+ teams wo
 
 # 📝 代表性论文
 
-<div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/papers/egohumanoid-v2.jpg' alt="egohumanoid-v2 research overview" width="100%" loading="lazy" class="lazy-gif" data-gif="images/papers/egohumanoid-v2.gif"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**[EgoHumanoid-V2: Human-to-Humanoid Transfer of Coordinated Whole-Body Skills for Loco-Manipulation](https://opendrivelab.com/EgoHumanoid-V2/)**
-
-**Jin Chen**, Yiming Jiang, Chongyang Xu, Modi Shi, Shijia Peng, Li Chen, Tianyu Li, Mu Xu, Yilun Chen, Steven Hoi, Hongyang Li
-
-*arXiv preprint*, 2026
-
-[**项目主页**](https://opendrivelab.com/EgoHumanoid-V2/) \| [**arXiv**](https://arxiv.org/abs/2609.37181)
-
-<sub><i>通过由粗到细的动作对齐与视觉对齐，将第一视角人类示范中的全身协同技能迁移到人形机器人，并在四项真实任务上实现零样本部署。</i></sub>
-
-</div>
-</div>
-
 <div class='paper-box' data-highlight="true">
 <div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/papers/lambda0-report.jpg' data-gif='images/papers/lambda0-report.gif' alt="Lambda0 demo: humanoid object transport" width="100%" loading="lazy" class="lazy-gif"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -390,6 +373,23 @@ Lambda-humanoid Team
 [**项目主页**](https://lambdahumanoid.github.io/) \| [**GitHub**](https://github.com/LambdaHumanoid/openlambda) \| [**arXiv**](https://arxiv.org/abs/2610.18950)
 
 <sub><i>利用 500 小时开放世界人类数据与机器人对齐示范训练人形机器人移动操作基础模型，随人类经验规模增长持续提升任务表现。</i></sub>
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/papers/egohumanoid-v2.jpg' alt="egohumanoid-v2 research overview" width="100%" loading="lazy" class="lazy-gif" data-gif="images/papers/egohumanoid-v2.gif"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[EgoHumanoid-V2: Human-to-Humanoid Transfer of Coordinated Whole-Body Skills for Loco-Manipulation](https://opendrivelab.com/EgoHumanoid-V2/)**
+
+**Jin Chen**, Yiming Jiang, Chongyang Xu, Modi Shi, Shijia Peng, Li Chen, Tianyu Li, Mu Xu, Yilun Chen, Steven Hoi, Hongyang Li
+
+*arXiv preprint*, 2026
+
+[**项目主页**](https://opendrivelab.com/EgoHumanoid-V2/) \| [**arXiv**](https://arxiv.org/abs/2609.37181)
+
+<sub><i>通过由粗到细的动作对齐与视觉对齐，将第一视角人类示范中的全身协同技能迁移到人形机器人，并在四项真实任务上实现零样本部署。</i></sub>
 
 </div>
 </div>
