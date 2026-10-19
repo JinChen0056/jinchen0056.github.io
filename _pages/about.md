@@ -61,6 +61,7 @@ I am a PhD student jointly affiliated with [Fudan University](https://www.fudan.
 My research interests center on **Humanoid Loco-Manipulation** and **Human Data Scaling**. Always happy to chat and exchange ideas — feel free to drop me an email.
 
 # 🔥 News
+- *2026.10*: &nbsp;📢 **λ₀** technical report is on arXiv!
 - *2026.09*: &nbsp;📢 **EgoHumanoid-V2** is on arXiv!
 - *2026.05*: &nbsp;🎉 **EgoHumanoid** is accepted by **RSS 2026** and fully open-sourced!
 - *2026.02*: &nbsp;🎉 Joined **Tongyi Lab, Alibaba** as a Research Intern.
@@ -349,6 +350,7 @@ Two tracks — **Manipulation** and **World Model** — attracting 300+ teams wo
 我的研究方向聚焦于**人形机器人移动操作**与**人类数据规模化**。欢迎通过邮件交流讨论。
 
 # 🔥 最新动态
+- *2026.10*: &nbsp;📢 **λ₀** 技术报告发布于 arXiv！
 - *2026.09*: &nbsp;📢 **EgoHumanoid-V2** 发布于 arXiv！
 - *2026.05*: &nbsp;🎉 **EgoHumanoid** 被 **RSS 2026** 接收并完整开源。
 - *2026.02*: &nbsp;🎉 加入**阿里巴巴通义实验室**担任研究实习生。
