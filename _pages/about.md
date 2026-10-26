@@ -100,7 +100,7 @@ Lambda-humanoid Team
 
 *arXiv preprint*, 2026
 
-[**Project**](https://opendrivelab.com/EgoHumanoid-V2/) \| [**arXiv**](https://arxiv.org/abs/2609.37181)
+[**Project**](https://opendrivelab.com/EgoHumanoid-V2/) \| [**GitHub**](https://github.com/OpenDriveLab/EgoHumanoid-V2) \| [**arXiv**](https://arxiv.org/abs/2609.37181)
 
 <sub><i>Transfers coordinated whole-body skills from egocentric human demonstrations through coarse-to-fine action alignment and visual alignment, with zero-shot deployment on four real-world tasks.</i></sub>
 
@@ -389,7 +389,7 @@ Lambda-humanoid Team
 
 *arXiv preprint*, 2026
 
-[**项目主页**](https://opendrivelab.com/EgoHumanoid-V2/) \| [**arXiv**](https://arxiv.org/abs/2609.37181)
+[**项目主页**](https://opendrivelab.com/EgoHumanoid-V2/) \| [**GitHub**](https://github.com/OpenDriveLab/EgoHumanoid-V2) \| [**arXiv**](https://arxiv.org/abs/2609.37181)
 
 <sub><i>通过由粗到细的动作对齐与视觉对齐，将第一视角人类示范中的全身协同技能迁移到人形机器人，并在四项真实任务上实现零样本部署。</i></sub>
 
